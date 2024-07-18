@@ -10,7 +10,7 @@ This app will show weather of city which you have searched.
 <ul>
     <li>Java</li>
     <li>Android Studio</li>
-    <li>Openweather Api</li>
+    <li>Openweathermap Api</li>
     
 </ul>
 
